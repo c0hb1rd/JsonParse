@@ -7,4 +7,4 @@
 
  <br>
  #Screenshot
- <img width="250px" height="350px" src="https://github.com/c0hb1rd/JsonParse/blob/master/web.png" />
+ <img width="400px" height="600px" src="https://github.com/c0hb1rd/JsonParse/blob/master/web.png" />
