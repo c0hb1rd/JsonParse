@@ -5,6 +5,5 @@
  * activity_layout.xml -> App入口布局
  * content_layout.xml  -> ListView布局
 
- <br>
- #Screenshot
+#Screenshot
  <img width="400px" height="600px" src="https://github.com/c0hb1rd/JsonParse/blob/master/web.png" />
